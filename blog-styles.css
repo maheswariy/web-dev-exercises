@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    font-family: verdana;
+}
+a.links{
+    text-decoration: none;
+    color: black;
+    line-height: 26px;
+    font-size: 13px;
+}
+
+.drop1-sub{
+    margin-left: 22px;
+}
+
+.main-link{
+    color: black;
+    text-decoration: none;
+}
+
+.header{
+    color: white;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    background-color: #0057b7;
+    height:100px;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 0px;
+}
+.header-img{
+    width:200px;
+    background-color: #0057b7;
+}
+.drop-menu{
+    margin-left:3px;
+    padding: 10px;
+    margin-top: 4px;
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.24);
+    width:130px;
+    margin-right: 10px;
+    height: 300px;
+}
+.main{
+    display: flex;
+
+}
+.mytitle{
+    padding-top: 8px;
+    padding-left: 12px;
+    background-color: #ffd700;
+    color: white;
+    height:42px;
+    margin-top: 0;
+    text-shadow:1px 2px black;
+}
+.intro-menu{
+    flex: 1;
+}
+.drop1{
+    box-shadow: inset 3px 3px 5px rgba(0,0,0,0.2);
+    width: 88%;
+    font-size: 20px;
+    font-weight:bold;
+    margin: 0;
+    padding-top: 5px;
+    height:34px;
+    width: 128px;
+    outline: none;
+}
+.aboutme{
+    font-size: 18px;
+}
